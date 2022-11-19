@@ -335,3 +335,74 @@ span{
     color: #5863f8;
     font-size: 14px;
 }
+/*  contact  page  */
+/* section #1 */
+.map iframe{
+   width: 100%;
+   height: 286px;
+   margin-bottom: 61px;
+}
+.map{
+    margin-top: 50px;
+    
+}
+.map h2{
+    margin-top: 17px;
+    font-size: 42px;
+    color: #000000;
+    max-width: 320px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.formm22{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.textarea{
+    max-width: 720px;
+    width: 68%;
+    height: 288px;
+}
+.textarea textarea{
+    width: 100%;
+    height: 100%;
+    background-color: #f8f8f8;
+    border-color: #e8e8e8;
+    resize: none;
+}
+.inputs{
+    max-width: 352px;
+    width: 29%;
+    height: 288px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.inpput1 input{
+    width: 352px;
+    height: 60px;
+    margin-bottom: 16px;
+    background-color: #f8f8f8;
+    border-color: #e8e8e8;
+}
+.inpput1-submit input{
+    width: 352px;
+    height: 60px;
+    background-color: #5863f8;
+    color: #ffffff;
+}
+/* burtulebi */
+.burtulebis{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.burtula1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
